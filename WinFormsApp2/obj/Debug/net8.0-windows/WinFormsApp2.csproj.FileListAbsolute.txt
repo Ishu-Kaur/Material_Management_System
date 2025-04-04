@@ -1,0 +1,78 @@
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form2.resources
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmBrand.resources
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmModel.resources
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Login.resources
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Report.resources
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Transactions.resources
+C:\Users\Ishu Kaur\source\repos\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmMenu.resources
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ClosedXML.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ClosedXML.Parser.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ExcelNumberFormat.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\RBush.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form2.resources
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmBrand.resources
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Login.resources
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmMenu.resources
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.frmModel.resources
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Report.resources
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Transactions.resources
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\Ishu Kaur\source\repos\backup 2\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
